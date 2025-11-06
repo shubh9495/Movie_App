@@ -1,6 +1,7 @@
 fastapi
 uvicorn[standard]
 python-dotenv
-google-genai 
+google-generativeai
 pydantic
-sqlite3
+Flask
+flask-cors
