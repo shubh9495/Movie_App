@@ -15,6 +15,8 @@ Features
 
  Tech Stack
 
+
+- **Frontend:** ReactJS
 - **Backend:** FastAPI, Python  
 - **AI Model:** Google Gemini 2.5 Flash  
 - **Database:** SQLite (via `database.py`)  
